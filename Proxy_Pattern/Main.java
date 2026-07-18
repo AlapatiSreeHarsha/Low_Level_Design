@@ -33,6 +33,6 @@ class CacheVideoDownloader implements VideoDownloader {
 class Main {
     public static void main(String[] args) {
         CacheVideoDownloader cacheVideoDownloader = new CacheVideoDownloader();
-        cacheVideoDownloader.downloadVideo("http://example.com/video1");
+        cacheVideoDownloader.downloadVideo("http://example.com/video");
     }
 }

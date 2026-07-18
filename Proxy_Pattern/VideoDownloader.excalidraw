@@ -692,7 +692,7 @@
       "type": "arrow",
       "x": 498.82022571620485,
       "y": 599.5783005438877,
-      "width": 5.229971393423739,
+      "width": 6.47519905839772,
       "height": 242.0722694713429,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -709,11 +709,11 @@
         "type": 2
       },
       "seed": 369975599,
-      "version": 105,
-      "versionNonce": 1996273647,
+      "version": 123,
+      "versionNonce": 1819287457,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1784352865468,
+      "updated": 1784353267881,
       "link": null,
       "locked": false,
       "points": [
@@ -722,19 +722,19 @@
           0
         ],
         [
-          5.229971393423739,
+          -6.47519905839772,
           -242.0722694713429
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "dSfmnIM2vlYm6mepaBtWu",
-        "focus": -0.08769039649820766,
+        "focus": -0.026294482191951123,
         "gap": 1
       },
       "endBinding": {
         "elementId": "1BgOHEzUw3MKxjUbs_g6k",
-        "focus": 0.12452455722121994,
+        "focus": 0.279707414854682,
         "gap": 3.906024969029204
       },
       "startArrowhead": null,
